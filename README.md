@@ -18,6 +18,6 @@
   <h3>🏏Tools🏏</h3>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio">
   <h3>🎡Frontend Framework🎡</h3>
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,angular,webpack,fresh">
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,angular,webpack,single-spa">
 </div>
 
