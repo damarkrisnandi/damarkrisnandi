@@ -14,9 +14,9 @@
 
 <div align=center>
   <h3>💎Programing Langs💎</h3>
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,md,nodejs,lua,rust,python">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,md,nodejs,lua,rust,python,deno">
   <h3>🏏Tools🏏</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,neovim">
   <h3>🎡Frontend Framework🎡</h3>
     <img src="https://skillicons.dev/icons?i=vue,react,nextjs,angular,webpack">
 </div>
