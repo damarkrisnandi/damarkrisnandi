@@ -14,10 +14,10 @@
 
 <div align=center>
   <h3>💎Programing Langs💎</h3>
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,md,nodejs,lua,rust">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,md,nodejs,lua,rust,python">
   <h3>🏏Tools🏏</h3>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio">
   <h3>🎡Frontend Framework🎡</h3>
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,angular,webpack">
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,angular,webpack,fresh">
 </div>
 
